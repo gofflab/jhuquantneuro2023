@@ -1,5 +1,4 @@
-url: ~
+url: http://www.gofflab.org/jhuquantneuro2023/
 template:
   bootstrap: 5
-  bootswatch: lumen
 

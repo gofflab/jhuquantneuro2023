@@ -1,11 +1,12 @@
 Package: jhuquantneuro2023
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Course Materials for ME440.825 (2023)
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
+Author: Loyal A. Goff
+Maintainer: Loyal A. Goff <loyalgoff@jhmi.edu>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+License: MIT License
 Encoding: UTF-8
 LazyData: true
+URL: http://www.gofflab.org/jhuquantneuro2023/
